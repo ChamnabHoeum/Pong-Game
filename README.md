@@ -27,3 +27,5 @@ o	Sound Effects: Add sound effects for paddle hits, scoring, and victory celebra
 o	Theme Customization: Allow users to choose or design their game themes.
 o	AI Player: Introduce a computer-controlled opponent for single-player mode.
 ![image](https://github.com/user-attachments/assets/2c999c20-e25e-424e-8402-f9af97653536)
+![image](https://github.com/user-attachments/assets/d6a66498-4cf7-4204-a304-1f0df5ab560b)
+
